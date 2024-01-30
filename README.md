@@ -6,6 +6,9 @@ This project involves the creation of a Library Management System that manages p
 The system incorporates various classes, including Menu, MenuItem, Book, and Date, to provide a comprehensive solution for handling library-related operations. 
 The project is organized into multiple files, each containing classes and functionalities for specific components.
 
+*TechStack:*
+- C++ (Object-Oriented Approach) Programming Language
+
 *Menu and MenuItem Classes (Menu.cpp and Menu.h):*
 The Menu class represents a menu system that allows users to interact with different options.
 It includes functionalities for displaying a menu, getting user input, and adding menu items dynamically.
