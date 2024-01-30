@@ -1,4 +1,4 @@
-# Library Management System
+# Seneca Library Management System
 
 *Project Description:* Library Management System
 
