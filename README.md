@@ -1,1 +1,1 @@
-# Seneca-Library-Management-System
+# Seneca Library Management System
